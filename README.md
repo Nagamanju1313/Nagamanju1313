@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nagaraj
-- 👀 I’m interested in HTML, CSS, JS, WORDPRESS, PHP, Reactjs, NodeJs
+- 👀 I’m interested in HTML, CSS, JS, PHP, Reactjs, NodeJs
 - 🌱 I’m JAVASCRIPT enthusisast
 - 💞️ I’m looking to collaborate on HTML, CSS, JAVASCRIPT, WORDPRESS, Reactjs, NodeJs
 - 📫 How to reach me nagarajnaga1313@gmail.com
